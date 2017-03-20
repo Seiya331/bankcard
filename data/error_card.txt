@@ -1,0 +1,3 @@
+{"bankCode":"CEB","bankName":"\u4e2d\u56fd\u5149\u5927\u94f6\u884c","cardType":"CC","cardTypeName":"\u4fe1\u7528\u5361"}
+{"bankCode":"SPDB","bankName":"\u4e0a\u6d77\u6d66\u4e1c\u53d1\u5c55\u94f6\u884c","cardType":"DC","cardTypeName":"\u50a8\u84c4\u5361"}
+{"bankCode":"XABANK","bankName":"\u897f\u5b89\u94f6\u884c","cardType":"DC","cardTypeName":"\u50a8\u84c4\u5361"}
